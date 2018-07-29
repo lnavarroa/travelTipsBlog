@@ -12,4 +12,5 @@
         <p>Tags:<?=form_input('tags')?> (comma separated)</p>
         <?=form_submit('submit', 'Insert')?>
 </body>
+	<script type="text/javascript" src="<?=base_url()?>js/moment.js"></script>
 </html>
