@@ -33,7 +33,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo base_url() ?>">Índice</a>
+              <a class="nav-link" href="<?php echo base_url() ?>">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo base_url() ?>IndiceController/quienesSomos">Quines Somos</a>
@@ -47,14 +47,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </nav>
 
     <!-- Page Header -->
-    <header class="masthead" style="background-image: url('<?php echo base_url() ?>assets/img/github1.png')">
+    <header class="masthead" style="background-image: url('<?php echo base_url() ?>assets/img/paisaje-montaña-2.jpeg')">
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
             <div class="site-heading">
-              <h1>Tutorial GitHub</h1>
-              <span class="subheading">Funciones básicas para iniciar tus proyectos.</span>
+              <h1>Travel Tips Blog</h1>
+              <span class="subheading">Un blog creado para compartir tus propios tips de viajes.</span>
               <span class="subheading">Desarrollado por <a href="https://ylit.cl/">YLIT</a></span>
             </div>
           </div>
