@@ -7,7 +7,7 @@ class Blog extends MX_Controller {
        
         public function index(){
                 $data['entries'] = $this->blog_model->getEntries();
-                $this->load->view('show_entries', $data);
+                $this->load->view('indiceView', $data);
         }
         public function entry(){
                 login_site();
