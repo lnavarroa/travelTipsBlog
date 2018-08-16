@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="description" content="">
     <meta name="ylit.cl" content="">
 
-    <title>Tutotial GitHub</title>
+    <title>Travel Tips Blog</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?php echo base_url() ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -47,7 +47,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </nav>
 
     <!-- Page Header -->
-    <header class="masthead" style="background-image: url('<?php echo base_url() ?>assets/img/paisaje-montaña-2.jpeg')">
+    <header class="masthead" style="background-image: url('<?php echo base_url() ?>assets/img/paisaje.png')">
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
