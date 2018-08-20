@@ -396,3 +396,96 @@ INFO - 2018-08-16 08:06:45 --> Model Class Initialized
 DEBUG - 2018-08-16 08:06:45 --> File loaded: C:\xampp\htdocs\travelTipsBlog\public_html\application\modules/blog/views/homeView.php
 INFO - 2018-08-16 08:06:45 --> Final output sent to browser
 DEBUG - 2018-08-16 08:06:45 --> Total execution time: 0.0624
+INFO - 2018-08-16 08:10:59 --> Config Class Initialized
+INFO - 2018-08-16 08:10:59 --> Hooks Class Initialized
+DEBUG - 2018-08-16 08:10:59 --> UTF-8 Support Enabled
+INFO - 2018-08-16 08:10:59 --> Utf8 Class Initialized
+INFO - 2018-08-16 08:10:59 --> URI Class Initialized
+DEBUG - 2018-08-16 08:10:59 --> No URI present. Default controller set.
+INFO - 2018-08-16 08:10:59 --> Router Class Initialized
+INFO - 2018-08-16 08:10:59 --> Output Class Initialized
+INFO - 2018-08-16 08:11:00 --> Security Class Initialized
+DEBUG - 2018-08-16 08:11:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-16 08:11:00 --> Input Class Initialized
+INFO - 2018-08-16 08:11:00 --> Language Class Initialized
+INFO - 2018-08-16 08:11:00 --> Language Class Initialized
+INFO - 2018-08-16 08:11:00 --> Config Class Initialized
+INFO - 2018-08-16 08:11:00 --> Loader Class Initialized
+INFO - 2018-08-16 08:11:00 --> Helper loaded: form_helper
+INFO - 2018-08-16 08:11:00 --> Helper loaded: url_helper
+INFO - 2018-08-16 08:11:00 --> Helper loaded: blog_helper
+INFO - 2018-08-16 08:11:00 --> Database Driver Class Initialized
+INFO - 2018-08-16 08:11:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-16 08:11:00 --> Controller Class Initialized
+DEBUG - 2018-08-16 08:11:00 --> Blog MX_Controller Initialized
+INFO - 2018-08-16 08:11:00 --> Model Class Initialized
+INFO - 2018-08-16 08:11:00 --> Model Class Initialized
+DEBUG - 2018-08-16 08:11:00 --> File loaded: C:\xampp\htdocs\travelTipsBlog\public_html\application\modules/blog/views/homeView.php
+INFO - 2018-08-16 08:11:00 --> Final output sent to browser
+DEBUG - 2018-08-16 08:11:00 --> Total execution time: 0.6084
+INFO - 2018-08-16 18:21:39 --> Config Class Initialized
+INFO - 2018-08-16 18:21:40 --> Hooks Class Initialized
+DEBUG - 2018-08-16 18:21:40 --> UTF-8 Support Enabled
+INFO - 2018-08-16 18:21:40 --> Utf8 Class Initialized
+INFO - 2018-08-16 18:21:40 --> URI Class Initialized
+DEBUG - 2018-08-16 18:21:40 --> No URI present. Default controller set.
+INFO - 2018-08-16 18:21:40 --> Router Class Initialized
+INFO - 2018-08-16 18:21:40 --> Output Class Initialized
+INFO - 2018-08-16 18:21:40 --> Security Class Initialized
+DEBUG - 2018-08-16 18:21:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-16 18:21:40 --> Input Class Initialized
+INFO - 2018-08-16 18:21:40 --> Language Class Initialized
+INFO - 2018-08-16 18:21:40 --> Language Class Initialized
+INFO - 2018-08-16 18:21:40 --> Config Class Initialized
+INFO - 2018-08-16 18:21:40 --> Loader Class Initialized
+INFO - 2018-08-16 18:21:40 --> Helper loaded: form_helper
+INFO - 2018-08-16 18:21:40 --> Helper loaded: url_helper
+INFO - 2018-08-16 18:21:40 --> Helper loaded: blog_helper
+INFO - 2018-08-16 18:21:40 --> Database Driver Class Initialized
+INFO - 2018-08-16 18:21:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-16 18:21:41 --> Controller Class Initialized
+DEBUG - 2018-08-16 18:21:41 --> Blog MX_Controller Initialized
+INFO - 2018-08-16 18:21:41 --> Model Class Initialized
+INFO - 2018-08-16 18:21:41 --> Model Class Initialized
+DEBUG - 2018-08-16 18:21:41 --> File loaded: C:\xampp\htdocs\travelTipsBlog\public_html\application\modules/blog/views/homeView.php
+INFO - 2018-08-16 18:21:41 --> Final output sent to browser
+DEBUG - 2018-08-16 18:21:41 --> Total execution time: 1.4030
+INFO - 2018-08-16 18:22:18 --> Config Class Initialized
+INFO - 2018-08-16 18:22:18 --> Hooks Class Initialized
+DEBUG - 2018-08-16 18:22:18 --> UTF-8 Support Enabled
+INFO - 2018-08-16 18:22:18 --> Utf8 Class Initialized
+INFO - 2018-08-16 18:22:18 --> URI Class Initialized
+INFO - 2018-08-16 18:22:18 --> Router Class Initialized
+INFO - 2018-08-16 18:22:18 --> Output Class Initialized
+INFO - 2018-08-16 18:22:18 --> Security Class Initialized
+DEBUG - 2018-08-16 18:22:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-16 18:22:18 --> Input Class Initialized
+INFO - 2018-08-16 18:22:18 --> Language Class Initialized
+ERROR - 2018-08-16 18:22:18 --> 404 Page Not Found: /index
+INFO - 2018-08-16 18:22:20 --> Config Class Initialized
+INFO - 2018-08-16 18:22:20 --> Hooks Class Initialized
+DEBUG - 2018-08-16 18:22:20 --> UTF-8 Support Enabled
+INFO - 2018-08-16 18:22:20 --> Utf8 Class Initialized
+INFO - 2018-08-16 18:22:20 --> URI Class Initialized
+DEBUG - 2018-08-16 18:22:20 --> No URI present. Default controller set.
+INFO - 2018-08-16 18:22:20 --> Router Class Initialized
+INFO - 2018-08-16 18:22:20 --> Output Class Initialized
+INFO - 2018-08-16 18:22:20 --> Security Class Initialized
+DEBUG - 2018-08-16 18:22:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-16 18:22:20 --> Input Class Initialized
+INFO - 2018-08-16 18:22:20 --> Language Class Initialized
+INFO - 2018-08-16 18:22:20 --> Language Class Initialized
+INFO - 2018-08-16 18:22:20 --> Config Class Initialized
+INFO - 2018-08-16 18:22:20 --> Loader Class Initialized
+INFO - 2018-08-16 18:22:20 --> Helper loaded: form_helper
+INFO - 2018-08-16 18:22:20 --> Helper loaded: url_helper
+INFO - 2018-08-16 18:22:20 --> Helper loaded: blog_helper
+INFO - 2018-08-16 18:22:20 --> Database Driver Class Initialized
+INFO - 2018-08-16 18:22:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-16 18:22:20 --> Controller Class Initialized
+DEBUG - 2018-08-16 18:22:20 --> Blog MX_Controller Initialized
+INFO - 2018-08-16 18:22:20 --> Model Class Initialized
+INFO - 2018-08-16 18:22:20 --> Model Class Initialized
+DEBUG - 2018-08-16 18:22:20 --> File loaded: C:\xampp\htdocs\travelTipsBlog\public_html\application\modules/blog/views/homeView.php
+INFO - 2018-08-16 18:22:20 --> Final output sent to browser
+DEBUG - 2018-08-16 18:22:20 --> Total execution time: 0.0720

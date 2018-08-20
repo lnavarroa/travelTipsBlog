@@ -10,6 +10,15 @@ class Blog extends MX_Controller {
                 $data['entries'] = $this->blog_model->getEntries();
                 $this->load->view('homeView', $data);
         }
+
+        public function quienes(){
+                $this->load->view('quienesSomos');
+        }
+
+        public function contact(){
+                $this->load->view('contacto');
+        }
+
         public function entry(){
                 login_site();
                 $this->load->view('new_entry');

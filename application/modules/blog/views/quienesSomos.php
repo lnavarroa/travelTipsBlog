@@ -1,8 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-?>
-
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <html lang="en">
 
   <head>
@@ -29,13 +27,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
   <body>
 
-    
-
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-
-      
-
       <div class="container">
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
@@ -43,27 +36,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <a class="nav-link" href="<?php echo base_url() ?>">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo base_url() ?>blog/quienes">Quienes Somos</a>
+              <a class="nav-link" href="<?php echo base_url() ?>blog/quienesSomos">Quienes Somos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo base_url() ?>blog/contact">Contactanos</a>
+              <a class="nav-link" href="<?php echo base_url() ?>blog/contactanos">Contactanos</a>
             </li>
           </ul>
         </div>
       </div>
-
-      <div class="container">
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" ><?php include('logger.php');?></a>
-            </li>
-            
-          </ul>
-        </div>
-      </div>
-
     </nav>
 
     <!-- Page Header -->
@@ -86,16 +66,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-
-          <hr>
-    <!--
           <div class="post-preview">
             <a href="<?php echo base_url() ?>">
               <h1 class="post-title">
                 Índice.
               </h1>
               <h2 class="post-subtitle">
-                Ésta página contiene el índice.
+                Ésta página contiene el índice del tutorial, haz click a continuación para ir al tema de tu interés.
               </h2>
             </a>
             <p class="post-meta">Posteado por
@@ -120,9 +97,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               el 05 de Julio de 2018
             </p>
           </div>
-    -->    
+          
           <hr>
-              
+              <?php include('menu.php');?>
               <?php if (!empty($entries)) : ?>
                 <?php foreach($entries as $entry) : ?>
                         <h2><?=anchor(base_url().'blog/view/'.$entry->id,$entry->title)?></h2>
@@ -133,7 +110,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <h1>No entries</h1>
               <?php endif; ?>
           <hr>
-    <!--      
+
           <div class="post-preview">
             <a href="<?php echo base_url() ?>IndiceController/instalacion">
               <h2 class="post-title">
